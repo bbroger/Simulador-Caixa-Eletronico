@@ -1,2 +1,2 @@
 # Simulador-Caixa-Eletronico
-Projeto elaborado no Netbeans com o uso do swing, simula um caixa eletrônico, tendo as funcionalidades Depositar, Sacar, Extrato e Saldo.
+Projeto elaborado com o Netbeans utilizando swing e banco de dados MySql, possui as funcionalidades de Deposito, Saque, Extrato e Saldo.
